@@ -9,17 +9,17 @@ function Footer() {
            <div className='min-h-16'>
             <div className='flex justify-between items-start flex-col md:flex-row py-10'>
                     
-                    <div >
+                    <div className='mb-10 ml-20'>
                     <Truck size={60} className='bg-black text-white rounded-full mx-12'/>
                     <h2 className='font-bold'>Free and Fast Delivery</h2>
                     <p>Free delivey for all order</p>
                 </div>
-                <div >
+                <div className='mb-10 ml-20'>
                     <Headphones size={60} className='bg-black text-white rounded-full mx-12 '/>
                     <h2 className='font-bold'>24/7 Customer Service</h2>
                     <p>Friendly 24/7 customer support</p>
                 </div>
-                <div >
+                <div className='ml-20'>
                     <ShieldCheck size={60} className='bg-black text-white rounded-full mx-12 '/>
                     <h2 className='font-bold'>Secure Payment</h2>
                     <p>We return money within 7 days</p>
@@ -84,7 +84,7 @@ function Footer() {
             </div>
             </div>
         </div>
-        <div className='container mx-auto text-center py-4 text-white'>
+        <div className='container mx-auto text-center py-4 text-black'>
             <p> &copy; Copyright Md Kaif 2025. All right reserved</p>
         </div>
     </footer>

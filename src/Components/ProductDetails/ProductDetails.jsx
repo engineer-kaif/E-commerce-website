@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import{Link, useParams} from 'react-router-dom'
 import { addToCart } from '../../Features/cartSlice'
 
+
 function ProductDetails() {
 const{id}=useParams()
 const dispatch=useDispatch()

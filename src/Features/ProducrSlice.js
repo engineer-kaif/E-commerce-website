@@ -9,7 +9,7 @@ const initialState={
     
 };
 
-const filterProducts=(state)=>{
+const filterProduct=(state)=>{
     return state.items.filter((product)=>{
       const matchSearch= product.title.toLowerCase().includes(state.searchTerm.toLowerCase)
       const matchCategory=state.selectedCategory==='All' || product.category===state.selectedCategory
@@ -26,7 +26,7 @@ const productSlice=createSlice({
         },
         setSelectedCategory:(state,action)=>{
             state.selectedCategory=action.payload
-            state.filteredItems=filterProducts(state)
+            state.filteredItems=filterProduct(state)
         }
     }
 })
