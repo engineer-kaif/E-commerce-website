@@ -30,8 +30,8 @@ if(!product){
           Back to Product
         </Link>
         <div className='grid grid-cols-1 md:grid-cols-2 gap-8 items-center'>
-          <div className='shadow-md p-4 rounded w-[600px]'>
-            <img src={product.image} alt={product.title} />
+          <div className='shadow-md p-4 rounded w-[300px]'>
+            <img src={`/${product.image}`} alt={product.title} />
           </div>
           <div>
             <h1 className='text-3xl font-bold mb-4 '>{product.title}</h1>
