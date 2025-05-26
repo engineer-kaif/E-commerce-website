@@ -5,7 +5,7 @@ const Products=[
         price:425.99,
         category:"Laptop",
         description:"Lenovo 15.6 High Performance Laptop, Intel Celeron 42050U Dual-Core Processor, 4GB DDR4 RAM, 128GB SSD, Webcam, Wireless+Bluetooth, HDMI, Window 10 (Intel Processor) If you are in the market for a new laptop, this Lenovo could be perfect for you. Great for working on the move, this laptop is ready to use straight out of the",
-        image:'./public/laptop2.jpeg'
+        image:'laptop2.jpeg'
     },
     {
         id:17,
@@ -13,7 +13,7 @@ const Products=[
         price:299.99,
         category:"ipad",
         description:"Brand new, manufactured to perfection just for you -For Apple iPad MINI 6 (8.3 display, 2021) -Clean design, easy to put on and to remove without any sticky marks -Easy step-by-step video instructions for flawless application with every skin -Ultimate Air Release technology for Bubble-Free application -Superior scratch protection -EasySkinz™ is a proud WINNER of the 2019 Queen's Award for Enterprise -Made and designed by EasySkinz™ in Great Britain Our designers developed a precise and",
-        image:'./public/ipad1.jpeg'
+        image:'ipad1.jpeg'
     },
     {
         id:18,
@@ -21,7 +21,7 @@ const Products=[
         price:599.99,
         category:"Graphic Card",
         description:"An Intel Graphics Card is a graphics processing unit (GPU) developed by intel. It is used to render image,videos and animation on your computer screen. Intel offer bothe Integrated graphics and discrete graphics",
-        image:'./public/graphic2.jpeg'
+        image:'graphic2.jpeg'
     },
     {
         id:19,
@@ -29,7 +29,7 @@ const Products=[
         price:350.99,
         category:"Monitor",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/moniter.jpeg'
+        image:'Moniter.jpeg'
     },
     {
         id:20,
@@ -37,7 +37,7 @@ const Products=[
         price:99.99,
         category:"Track suit",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/tracksuit.jpeg'
+        image:'tracksuit.jpeg'
     },
     {
         id:21,
@@ -45,7 +45,7 @@ const Products=[
         price:150.99,
         category:"Airpods",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/earbuds.jpeg'
+        image:'earbuds.jpeg'
     },
     {
         id:22,
@@ -53,7 +53,7 @@ const Products=[
         price:100.99,
         category:"trimmer",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/trimmer.jpeg'
+        image:'trimmer.jpeg'
     },
     {
         id:23,
@@ -61,7 +61,7 @@ const Products=[
         price:200.99,
         category:"Speaker Bluetooth",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/bluetooth.jpeg'
+        image:'bluetooth.jpeg'
     },
     {
         id:24,
@@ -69,7 +69,7 @@ const Products=[
         price:999.99,
         category:"Fridge",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/fridge.jpeg'
+        image:'fridge.jpeg'
     },
     {
         id:25,
@@ -77,7 +77,7 @@ const Products=[
         price:199.99,
         category:"Phone",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/phone.jpeg'
+        image:'phone.jpeg'
     },
     {
         id:26,
@@ -85,7 +85,7 @@ const Products=[
         price:899.99,
         category:"Washing Machine",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/washing machine.jpeg'
+        image:'washing machine.jpeg'
     },
     {
         id:27,
@@ -93,7 +93,7 @@ const Products=[
         price:799.99,
         category:"Dell Laptop",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/laptop4.jpeg'
+        image:'laptop4.jpeg'
     },
     {
         id:28,
@@ -101,7 +101,7 @@ const Products=[
         price:399.99,
         category:"Monitor",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/monitor4.jpeg'
+        image:'monitor4.jpeg'
     },
     {
         id:29,
@@ -109,7 +109,7 @@ const Products=[
         price:200.99,
         category:"Fan",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/fan.jpeg'
+        image:'fan.jpeg'
     },
     {
         id:30,
@@ -117,7 +117,7 @@ const Products=[
         price:699.99,
         category:"Frendo",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/frendo.jpeg'
+        image:'frendo.jpeg'
     },
     {
         id:31,
@@ -125,7 +125,7 @@ const Products=[
         price:989.99,
         category:"Graphic Card",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta reiciendis ipsam nostrum laborum illo quae consequatur facere totam id ad, impedit voluptatem iusto ipsa dolores assumenda expedita eligendi a eos repellat nam temporibus? Voluptatibus pariatur distinctio, quia fugit iste, impedit facere sed doloribus architecto voluptate labore magni officiis aliquam esse.",
-        image:'./public/graphic4.jpeg'
+        image:'graphic4.jpeg'
     }
 ]
 export default Products;
