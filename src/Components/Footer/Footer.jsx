@@ -9,12 +9,12 @@ function Footer() {
            <div className='min-h-16'>
             <div className='flex justify-between items-start flex-col md:flex-row py-10'>
                     
-                    <div className='mb-10 ml-20'>
+                    <div className='ml-20 mb-10'>
                     <Truck size={60} className='bg-black text-white rounded-full mx-12'/>
                     <h2 className='font-bold'>Free and Fast Delivery</h2>
                     <p>Free delivey for all order</p>
                 </div>
-                <div className='mb-10 ml-20'>
+                <div className='ml-20 mb-10'>
                     <Headphones size={60} className='bg-black text-white rounded-full mx-12 '/>
                     <h2 className='font-bold'>24/7 Customer Service</h2>
                     <p>Friendly 24/7 customer support</p>

@@ -28,7 +28,7 @@ function CartPage() {
         {cartItems.map((item)=>(
           <div key={item.id} className='flex items-center gap-4 py-4 border-b'>
              <Link to={`/product/${item.id}`}>
-            <img src={item.image} alt={item.title} className='w-24 h-24 object-cover rounded'/>
+            <img src={item.image} alt={item.title} className='w-24 h-24 object-contain rounded'/>
              </Link>
              <div className='flex-1'>
                <Link to={`/product/${item.id}`} className='font-semibold hover:text-blue-600'>
