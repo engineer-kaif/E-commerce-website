@@ -8,7 +8,6 @@ const catogeries=[
   "All",
   "Graphics Card",
   "Laptop",
-  
 ];
 
 function Home() {
